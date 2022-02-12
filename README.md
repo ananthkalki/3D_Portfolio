@@ -1,2 +1,2 @@
 # 3D_Portfolio
-A portfolio site completely indsidea 3d world
+A portfolio site completely indside a 3d world

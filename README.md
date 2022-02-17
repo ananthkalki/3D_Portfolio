@@ -5,3 +5,5 @@ day 1:
 serached about 3dsites, Three js.
 day 2:
 nothing.
+day3:
+deciding tech stack.

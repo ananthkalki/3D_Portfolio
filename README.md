@@ -7,3 +7,5 @@ day 2:
 nothing.
 day3:
 deciding tech stack.
+day4:
+initial commit
